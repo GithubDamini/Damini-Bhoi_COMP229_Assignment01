@@ -1,0 +1,3 @@
+Hi my name is Git.
+I am new to it.
+Trying to merge two branches.
